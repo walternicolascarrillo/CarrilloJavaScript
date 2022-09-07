@@ -1,0 +1,48 @@
+
+
+.boton {
+    width: 250px;
+    border-radius: 30px;
+    background-color: rgb(0, 37, 250);
+    margin-left: 5%;
+    padding: 2%;
+    border: 3px solid rgba(255, 0, 0, 0.877);
+    cursor: hand;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: white
+}
+.saludo {
+    border-radius: 30px;
+    background-color: rgb(0, 37, 250);
+    margin:2%;
+    padding: 2%;
+    border: 3px solid rgba(255, 0, 0, 0.877);
+    color: white;
+    
+}
+
+.cuerpo{
+    background-image:  url("https://thumbs.dreamstime.com/b/historieta-del-vector-fondo-de-la-silueta-pokemon-s-mbolo-arte-icono-juego-vaya-muestra-concepto-bola-pokeball-forma-142907703.jpg");
+ 
+}
+
+footer {
+    position: fixed;
+    left: 10px;
+    bottom: 10px;
+    height: 10%;
+    width: 100%;
+    /*background-image:  url("https://thumbs.dreamstime.com/b/historieta-del-vector-fondo-de-la-silueta-pokemon-s-mbolo-arte-icono-juego-vaya-muestra-concepto-bola-pokeball-forma-142907703.jpg");*/
+  
+}
+
+
+.darkLightMode {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 2%;
+
+}
